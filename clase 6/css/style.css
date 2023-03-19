@@ -1,0 +1,5 @@
+:root{
+    max-width:1220px;
+    display: flex;
+    place-content: center;
+}
