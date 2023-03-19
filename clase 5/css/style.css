@@ -1,0 +1,11 @@
+#inputs {
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    width: 100px;
+    align-items: center;
+}
+#inputs input{
+    padding:5px;
+    margin:5px;
+}
